@@ -133,7 +133,7 @@ if(isset($_POST['submit'])){
                         <div class="text-danger"><?php echo $admin_error; ?></div>
 
                        
-      <p1>idk man idk</p1)
+
                        
                         
                         
